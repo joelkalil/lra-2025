@@ -10,7 +10,6 @@ for(idx in lines){
     // Get values from tuple
     let values = lines[idx].split(" ");
 
-
     // Defining x and y
     let x;
 
