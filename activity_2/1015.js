@@ -1,5 +1,5 @@
 // Read input from text file
-var input = require('fs').readFileSync('activity_2/data/1_3.txt', 'utf8');
+var input = require('fs').readFileSync('activity_2/data/1015_3.txt', 'utf8');
 
 // Split input text in "\n"
 var lines = input.split('\n');
